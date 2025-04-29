@@ -17,7 +17,7 @@ plugins {
 }
 
 group = "pr0gramm3r101"
-version = "1.0.1"
+version = "1.0.2"
 
 repositories {
     mavenCentral()
