@@ -51,6 +51,7 @@ tasks {
                 sourcesMain.output
         from(contents)
     }
+
     build {
         dependsOn(fatJar) // Trigger fat jar creation during build
     }
